@@ -1,2 +1,2 @@
 # one-prompt
-This is a stand "One Prompt, One Tool" in Vibe Coding in Medical Imaging: Responsible LLM-Assisted Programming at MICCAI 2026
+This is the "One Prompt, One Tool" stand, in Vibe Coding in the Medical Imaging: Responsible LLM-Assisted Programming tutorial, at MICCAI 2026
